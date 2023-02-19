@@ -1,4 +1,4 @@
-# PacMan
-PacMan Website
+# Dino
+DinoGame Copy
 
 i love men
